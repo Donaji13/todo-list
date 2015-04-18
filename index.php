@@ -17,8 +17,6 @@
 			<?php require("includes/connect.php"); ?>
 
 
-			echo ''
-
 
 			?>
 		</ul>	
